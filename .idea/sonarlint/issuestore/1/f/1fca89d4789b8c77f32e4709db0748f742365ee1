@@ -1,0 +1,7 @@
+
+L
+java:S1068	"*Remove this unused "logger" private field.(”¼ÎŒıÿÿÿÿ8ÄéåÕƒ/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¿êùóúÿÿÿÿ8©„ëÕƒ/
+C
+java:S1168"&Return an empty array instead of null.(¥¹ï8‚èÕƒ/

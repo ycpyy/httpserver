@@ -1,0 +1,19 @@
+
+h
+java:S1192&"KDefine a constant instead of duplicating this literal "threadpool" 5 times.(ì¹½8üù¥Ì†/
+L
+java:S1128"/Remove this unused import 'java.util.Calendar'.(ÿÛö´8¥/
+D
+java:S2189,""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ê’€/
+]	java:S125"<This block of commented-out lines of code should be removed.(’€ç½ÿÿÿÿÿ8òĞò·/
+O
+java:S1135G"2Complete the task associated to this TODO comment.(‡ÚŠ8˜ÖıŒ€/
+O
+java:S1135N"2Complete the task associated to this TODO comment.(©±Ò™8è«/
+v
+java:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(éé‰8İÛûŒ€/
+O
+java:S2755K"3Disable access to external entities in XML parsing.(Í¹£C8Î…ƒ/
+]	java:S125"<This block of commented-out lines of code should be removed.(Óº·Âúÿÿÿÿ8òĞò·/
+O
+java:S1135"2Complete the task associated to this TODO comment.(´Í½8É–˜€/

@@ -1,0 +1,19 @@
+
+X	java:S125p"<This block of commented-out lines of code should be removed.(óú¼8úù¥Ì†/
+o
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(©ùƒá8úù¥Ì†/
+O
+java:S1135*"2Complete the task associated to this TODO comment.(”Ôşæ8úù¥Ì†/
+{
+java:S1450"YRemove the "requestURL" field and declare it as a local variable in the relevant methods.(áŒ¢Ôùÿÿÿÿ8úù¥Ì†/
+|
+java:S1149s"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÿ¶ã‹8úù¥Ì†/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(åÀ¼¶şÿÿÿÿ8úù¥Ì†/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùÅÃí8úù¥Ì†/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã™Ÿşıÿÿÿÿ8úù¥Ì†/
+P
+java:S1068".Remove this unused "requestURL" private field.(áŒ¢Ôùÿÿÿÿ8úù¥Ì†/
+w
+java:S1450"ZRemove the "queryString" field and declare it as a local variable in the relevant methods.(…™Ñ8úù¥Ì†/
